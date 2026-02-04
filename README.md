@@ -31,51 +31,51 @@ Developed By Team - Kelompok 3
 <img width="447" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0b82a5a0-80d8-4317-8951-d8ce13008aa0" />
 
 * Forgot Password
-![Forgot Password Page](screenshots/forgotpassword.jpg)
+![Forgot Password Page](screenshoots/forgotpassword.jpg)
 
 * Home
-![Home Page](screenshots/home.jpg)
+![Home Page](screenshoots/home.jpg)
 <br>
-![Add Page](screenshots/addfoodd.jpg)
+![Add Page](screenshoots/addfoodd.jpg)
 <br>
-![My Uploads Page](screenshots/myuploads.jpg)
+![My Uploads Page](screenshoots/myuploads.jpg)
 
 * Update / Edit Food
-![Edit Page](screenshots/editfood.jpg)
+![Edit Page](screenshoots/editfood.jpg)
 <br>
-![Update Page](screenshots/updatesuccess.jpg)
+![Update Page](screenshoots/updatesuccess.jpg)
 
 * Delete Food
-![Update Page](screenshots/deletefood.jpg)
+![Update Page](screenshoots/deletefood.jpg)
 
 * Go To Maps
-![Go To Page](screenshots/gotomaps.jpg)
+![Go To Page](screenshoots/gotomaps.jpg)
 <br>
-![Maps Page](screenshots/maps.jpg)
+![Maps Page](screenshoots/maps.jpg)
 
 * Add / Input New Food
-![Add Page](screenshots/addfood.jpg)
+![Add Page](screenshoots/addfood.jpg)
 <br>
-![Add Page](screenshots/addfoodd.jpg)
+![Add Page](screenshoots/addfoodd.jpg)
 
 * Matches
-![Matches Page](screenshots/matches.jpg)
+![Matches Page](screenshoots/matches.jpg)
 <br>
-![Search Page](screenshots/search.jpg)
+![Search Page](screenshoots/search.jpg)
 
 * Find Your Match
-![Find Your Match Page](screenshots/findyourmatch.jpg)
+![Find Your Match Page](screenshoots/findyourmatch.jpg)
 
 * Profile
-![Profile Page](screenshots/profile.jpg)
+![Profile Page](screenshoots/profile.jpg)
 <br>
-![Edit Page](screenshots/updateprofile.jpg)
+![Edit Page](screenshoots/updateprofile.jpg)
 
 * Logout
-![Logout Page](screenshots/logout.jpg)
+![Logout Page](screenshoots/logout.jpg)
 
 * About
-![About Page](screenshots/about.jpg)
+![About Page](screenshoots/about.jpg)
 
 * Demo Video
 https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c

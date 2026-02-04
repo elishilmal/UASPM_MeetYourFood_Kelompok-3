@@ -140,8 +140,6 @@ Developed By Team - Kelompok 3
 
 ## Logout
 
-<table align="center">
-        <source src="https://github.com/user-attachments/assets/e49ccd7a-dca1-443a-85d4-a60ff6518139" type="video/mp4">
-</table>
+https://github.com/user-attachments/assets/e49ccd7a-dca1-443a-85d4-a60ff6518139" type="video/mp4
 
 

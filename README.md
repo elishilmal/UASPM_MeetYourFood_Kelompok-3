@@ -25,11 +25,15 @@ Developed By Team - Kelompok 3
 
 * Matches
 
+* Search Food Matches
+
 * Profile
 
 * About
 
-* Add/Input New Food
+* Add / Input New Food
+
+* Update / Edit Food
 
 * Go To Maps
 

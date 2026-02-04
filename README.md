@@ -35,14 +35,11 @@ Developed By Team - Kelompok 3
 
 * Home
 ![Home Page](screenshoots/home.jpg)
-<br>
 ![Add Page](screenshoots/addfoodd.jpg)
-<br>
 ![My Uploads Page](screenshoots/myuploads.jpg)
 
 * Update / Edit Food
 ![Edit Page](screenshoots/editfood.jpg)
-<br>
 ![Update Page](screenshoots/updatesuccess.jpg)
 
 * Delete Food
@@ -50,7 +47,6 @@ Developed By Team - Kelompok 3
 
 * Go To Maps
 ![Go To Page](screenshoots/gotomaps.jpg)
-<br>
 ![Maps Page](screenshoots/maps.jpg)
 
 * Add / Input New Food
@@ -60,7 +56,6 @@ Developed By Team - Kelompok 3
 
 * Matches
 ![Matches Page](screenshoots/matches.jpg)
-<br>
 ![Search Page](screenshoots/search.jpg)
 
 * Find Your Match
@@ -68,7 +63,6 @@ Developed By Team - Kelompok 3
 
 * Profile
 ![Profile Page](screenshoots/profile.jpg)
-<br>
 ![Edit Page](screenshoots/updateprofile.jpg)
 
 * Logout

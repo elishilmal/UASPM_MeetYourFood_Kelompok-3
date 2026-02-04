@@ -17,14 +17,11 @@ Developed By Team - Kelompok 3
 ## Screenshot & Demo Video
 
 ## 🎨 Desain Awal (Figma)
-
-<p align="center">
-  <img src="https://www.figma.com/design/6I2xZC9Cd1dLg16NFsw8kF/MeetYourFoods?node-id=1-2&p=f&t=7xNMnfpYPZkFimTV-0" width="70%" />
-</p>
+[Desain/Mockup Figma](https://www.figma.com/design/6I2xZC9Cd1dLg16NFsw8kF/MeetYourFoods?node-id=1-2&p=f&t=7xNMnfpYPZkFimTV-0)
 
 ---
 
-## 🚀 Alur Autentikasi
+## Alur Autentikasi
 
 <table align="center">
   <tr>
@@ -32,23 +29,20 @@ Developed By Team - Kelompok 3
     <td align="center"><b>Get Started</b></td>
     <td align="center"><b>Register</b></td>
     <td align="center"><b>Login</b></td>
+    <td align="center"><b>Forgot Password</b></td>
   </tr>
   <tr>
     <td><img src="screenshoots/splashscreen.jpg" width="180"/></td>
     <td><img src="screenshoots/getstarted.jpg" width="180"/></td>
     <td><img src="screenshoots/register.jpg" width="180"/></td>
     <td><img src="screenshoots/login.jpg" width="180"/></td>
+    <td><img src="screenshoots/forgotpassword.jpg" width="180"/></td>
   </tr>
 </table>
 
-<p align="center">
-  <b>Forgot Password</b><br/>
-  <img src="screenshoots/forgotpassword.jpg" width="180"/>
-</p>
-
 ---
 
-## 🏠 Halaman Utama & Manajemen Food
+## Halaman Utama & Manajemen Food
 
 <table align="center">
   <tr>
@@ -78,7 +72,7 @@ Developed By Team - Kelompok 3
 
 ---
 
-## 🗺️ Maps & Location
+## Maps & Location
 
 <table align="center">
   <tr>
@@ -93,7 +87,7 @@ Developed By Team - Kelompok 3
 
 ---
 
-## 💖 Match & Discover
+## Match & Discover
 
 <table align="center">
   <tr>
@@ -110,7 +104,7 @@ Developed By Team - Kelompok 3
 
 ---
 
-## 👤 Profile & Informasi
+## Profile & Informasi
 
 <table align="center">
   <tr>
@@ -125,14 +119,22 @@ Developed By Team - Kelompok 3
   </tr>
 </table>
 
-<p align="center">
-  <b>Logout</b><br/>
-  <img src="screenshoots/logout.jpg" width="180"/>
-</p>
+---
+
+## Logout
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Logout</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshoots/logout" width="180"/></td>
+  </tr>
+</table>
 
 ---
 
 ## 🎥 Demo Video
 
-🔗 https://github.com/user-attachments/assets/92f92fbf-8b3b-48a2-846e-503ad7c2ad27
+🔗 [https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c](https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c)
 

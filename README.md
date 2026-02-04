@@ -16,6 +16,8 @@ Developed By Team - Kelompok 3
 
 ## Screenshot & Demo Video
 
+* [Desain/Mockup Figma](https://www.figma.com/design/6I2xZC9Cd1dLg16NFsw8kF/MeetYourFoods?node-id=1-2&p=f&t=7xNMnfpYPZkFimTV-0)
+
 * SplashScreen
 
 * Get Started

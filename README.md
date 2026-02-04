@@ -138,7 +138,7 @@ Developed By Team - Kelompok 3
 
 <p align="center">
   <video width="360" controls>
-    <source src="./screenshoots/Demo_Aplikasi.mp4" type="video/mp4">
+    <source src="screenshoots/Demo_Aplikasi.mp4" type="video/mp4">
   </video>
 </p>
 

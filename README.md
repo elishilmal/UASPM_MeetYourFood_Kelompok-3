@@ -1,6 +1,9 @@
 # MeetYourFoods
-
 Project Tugas Besar Ujian Akhir Semester Pemrograman Mobile 2 - RP 23 CID B
+
+
+![Logo Aplikasi](https://drive.google.com/uc?export=view&id=16FKf1vNBAgQu6UogSwjuDvifBR3Rmb1C)
+
 ## _Swipe, Match & Eat!!_
 
 Developed By Team - Kelompok 3

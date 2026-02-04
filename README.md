@@ -19,6 +19,7 @@ Developed By Team - Kelompok 3
 * [Desain/Mockup Figma](https://www.figma.com/design/6I2xZC9Cd1dLg16NFsw8kF/MeetYourFoods?node-id=1-2&p=f&t=7xNMnfpYPZkFimTV-0)
 
 * SplashScreen
+<img width="452" height="1028" alt="Image" src="https://github.com/user-attachments/assets/a362fef2-f5d6-4e69-a472-88f480f96d15" />
 
 * Get Started
 
@@ -43,4 +44,4 @@ Developed By Team - Kelompok 3
 * Go To Maps
 
 * Demo Video
-https://github.com/user-attachments/assets/39bed233-a03b-4256-8b31-d51cba002e2d
+https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c

@@ -87,7 +87,7 @@ Developed By Team - Kelompok 3
 
 ---
 
-## Match & Discover
+## Match & Search
 
 <table align="center">
   <tr>
@@ -128,7 +128,7 @@ Developed By Team - Kelompok 3
     <td align="center"><b>Logout</b></td>
   </tr>
   <tr>
-    <td><img src="screenshoots/logout" width="180"/></td>
+    <td><img src="screenshoots/logout.jpg" width="180"/></td>
   </tr>
 </table>
 

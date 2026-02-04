@@ -30,22 +30,52 @@ Developed By Team - Kelompok 3
 * Login
 <img width="447" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0b82a5a0-80d8-4317-8951-d8ce13008aa0" />
 
+* Forgot Password
+![Forgot Password Page](screenshots/forgotpassword.jpg)
+
 * Home
-<img width="450" height="1020" alt="Image" src="https://github.com/user-attachments/assets/673ef648-83ad-4e1e-b052-38cf5b725090" />
-
-* Matches
-
-* Search Food Matches
-
-* Profile
-
-* About
-
-* Add / Input New Food
+![Home Page](screenshots/home.jpg)
+<br>
+![Add Page](screenshots/addfoodd.jpg)
+<br>
+![My Uploads Page](screenshots/myuploads.jpg)
 
 * Update / Edit Food
+![Edit Page](screenshots/editfood.jpg)
+<br>
+![Update Page](screenshots/updatesuccess.jpg)
+
+* Delete Food
+![Update Page](screenshots/deletefood.jpg)
 
 * Go To Maps
+![Go To Page](screenshots/gotomaps.jpg)
+<br>
+![Maps Page](screenshots/maps.jpg)
+
+* Add / Input New Food
+![Add Page](screenshots/addfood.jpg)
+<br>
+![Add Page](screenshots/addfoodd.jpg)
+
+* Matches
+![Matches Page](screenshots/matches.jpg)
+<br>
+![Search Page](screenshots/search.jpg)
+
+* Find Your Match
+![Find Your Match Page](screenshots/findyourmatch.jpg)
+
+* Profile
+![Profile Page](screenshots/profile.jpg)
+<br>
+![Edit Page](screenshots/updateprofile.jpg)
+
+* Logout
+![Logout Page](screenshots/logout.jpg)
+
+* About
+![About Page](screenshots/about.jpg)
 
 * Demo Video
 https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c

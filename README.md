@@ -16,62 +16,123 @@ Developed By Team - Kelompok 3
 
 ## Screenshot & Demo Video
 
-### Figma (Tampilan Awal)
-* [Desain/Mockup Figma](https://www.figma.com/design/6I2xZC9Cd1dLg16NFsw8kF/MeetYourFoods?node-id=1-2&p=f&t=7xNMnfpYPZkFimTV-0)
+## 🎨 Desain Awal (Figma)
 
-### SplashScreen
-![SplashScreen Page](screenshoots/splashscreen.jpg)
+<p align="center">
+  <img src="https://www.figma.com/design/6I2xZC9Cd1dLg16NFsw8kF/MeetYourFoods?node-id=1-2&p=f&t=7xNMnfpYPZkFimTV-0" width="70%" />
+</p>
 
-### Get Started
-![Get Started Page](screenshoots/getstarted.jpg)
+---
 
-### Register
-![Register Page](screenshoots/register.jpg)
+## 🚀 Alur Autentikasi
 
-### Login
-![Login Page](screenshoots/login.jpg)
+<table align="center">
+  <tr>
+    <td align="center"><b>Splash Screen</b></td>
+    <td align="center"><b>Get Started</b></td>
+    <td align="center"><b>Register</b></td>
+    <td align="center"><b>Login</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshoots/splashscreen.jpg" width="180"/></td>
+    <td><img src="screenshoots/getstarted.jpg" width="180"/></td>
+    <td><img src="screenshoots/register.jpg" width="180"/></td>
+    <td><img src="screenshoots/login.jpg" width="180"/></td>
+  </tr>
+</table>
 
-### Forgot Password
-![Forgot Password Page](screenshoots/forgotpassword.jpg)
+<p align="center">
+  <b>Forgot Password</b><br/>
+  <img src="screenshoots/forgotpassword.jpg" width="180"/>
+</p>
 
-### Home
-![Home Page](screenshoots/home.jpg)
+---
 
-### My Uploads
-![My Uploads Page](screenshoots/myuploads.jpg)
+## 🏠 Halaman Utama & Manajemen Food
 
-### Update / Edit Food
-![Edit Page](screenshoots/editfood.jpg)
-![Update Page](screenshoots/updatesuccess.jpg)
+<table align="center">
+  <tr>
+    <td align="center"><b>Home</b></td>
+    <td align="center"><b>My Uploads</b></td>
+    <td align="center"><b>Add Food</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshoots/home.jpg" width="180"/></td>
+    <td><img src="screenshoots/myuploads.jpg" width="180"/></td>
+    <td><img src="screenshoots/addfood.jpg" width="180"/></td>
+  </tr>
+</table>
 
-### Delete Food
-![Delete Page](screenshoots/deletefood.jpg)
+<table align="center">
+  <tr>
+    <td align="center"><b>Edit Food</b></td>
+    <td align="center"><b>Update Success</b></td>
+    <td align="center"><b>Delete Food</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshoots/editfood.jpg" width="180"/></td>
+    <td><img src="screenshoots/updatesuccess.jpg" width="180"/></td>
+    <td><img src="screenshoots/deletefood.jpg" width="180"/></td>
+  </tr>
+</table>
 
-### Go To Maps
-![Go To Page](screenshoots/gotomaps.jpg)
-![Maps Page](screenshoots/maps.jpg)
+---
 
-### Add / Input New Food
-![Add Page](screenshoots/addfood.jpg)
-<br>
-![Add Page](screenshoots/addfoodd.jpg)
+## 🗺️ Maps & Location
 
-### Matches
-![Matches Page](screenshoots/matches.jpg)
-![Search Page](screenshoots/search.jpg)
+<table align="center">
+  <tr>
+    <td align="center"><b>Go To Maps</b></td>
+    <td align="center"><b>Maps</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshoots/gotomaps.jpg" width="180"/></td>
+    <td><img src="screenshoots/maps.jpg" width="180"/></td>
+  </tr>
+</table>
 
-### Find Your Match
-![Find Your Match Page](screenshoots/findyourmatch.jpg)
+---
 
-### Profile
-![Profile Page](screenshoots/profile.jpg)
-![Edit Page](screenshoots/updateprofile.jpg)
+## 💖 Match & Discover
 
-### Logout
-![Logout Page](screenshoots/logout.jpg)
+<table align="center">
+  <tr>
+    <td align="center"><b>Find Your Match</b></td>
+    <td align="center"><b>Matches</b></td>
+    <td align="center"><b>Search</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshoots/findyourmatch.jpg" width="180"/></td>
+    <td><img src="screenshoots/matches.jpg" width="180"/></td>
+    <td><img src="screenshoots/search.jpg" width="180"/></td>
+  </tr>
+</table>
 
-### About
-![About Page](screenshoots/about.jpg)
+---
 
-### Demo Video
-https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c
+## 👤 Profile & Informasi
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Profile</b></td>
+    <td align="center"><b>Edit Profile</b></td>
+    <td align="center"><b>About</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshoots/profile.jpg" width="180"/></td>
+    <td><img src="screenshoots/editprofile.jpg" width="180"/></td>
+    <td><img src="screenshoots/about.jpg" width="180"/></td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>Logout</b><br/>
+  <img src="screenshoots/logout.jpg" width="180"/>
+</p>
+
+---
+
+## 🎥 Demo Video
+
+🔗 [https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c](https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c)
+

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "819389570357",
+    "project_id": "meetyourfoods",
+    "storage_bucket": "meetyourfoods.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819389570357:android:60f1cae728080f36b1807c",
+        "android_client_info": {
+          "package_name": "com.example.meetyourfoods"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASeCRx_2PC-gCa-xE2pgxncP8IjxlXtlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819389570357:android:1bf2b81bca798538b1807c",
+        "android_client_info": {
+          "package_name": "com.meetyourfoods.uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASeCRx_2PC-gCa-xE2pgxncP8IjxlXtlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

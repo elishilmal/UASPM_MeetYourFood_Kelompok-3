@@ -1,7 +1,7 @@
 # MeetYourFoods
 
 Project Tugas Besar Ujian Akhir Semester Pemrograman Mobile 2 - RP 23 CID B
-## _Matchmaker Kuliner Pribadimu_
+## _Swipe, Match & Eat!!_
 
 Developed By Team - Kelompok 3
 

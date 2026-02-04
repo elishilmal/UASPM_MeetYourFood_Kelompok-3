@@ -136,11 +136,4 @@ Developed By Team - Kelompok 3
 
 ## 🎥 Demo Video
 
-<p align="center">
-  <video width="360" controls>
-    <source src="screenshoots/Demo_Aplikasi.mp4" type="video/mp4">
-  </video>
-</p>
-
-
-
+https://github.com/user-attachments/assets/e49ccd7a-dca1-443a-85d4-a60ff6518139

@@ -138,14 +138,20 @@ Developed By Team - Kelompok 3
 
 ---
 
+## Logout
+
 <table align="center">
   <tr>
-    <td align="center"><b>DemoAplikasi</b></td>
+    <td align="center"><b>Demo Logout</b></td>
   </tr>
   <tr>
-    <a href="https://github.com/user-attachments/assets/e49ccd7a-dca1-443a-85d4-a60ff6518139"></a>
+    <td align="center">
+      <video width="320" controls>
+        <source src="https://github.com/user-attachments/assets/e49ccd7a-dca1-443a-85d4-a60ff6518139" type="video/mp4">
+        Browser tidak mendukung video.
+      </video>
+    </td>
   </tr>
 </table>
 
-https://github.com/user-attachments/assets/e49ccd7a-dca1-443a-85d4-a60ff6518139
 

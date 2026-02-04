@@ -19,16 +19,16 @@ Developed By Team - Kelompok 3
 * [Desain/Mockup Figma](https://www.figma.com/design/6I2xZC9Cd1dLg16NFsw8kF/MeetYourFoods?node-id=1-2&p=f&t=7xNMnfpYPZkFimTV-0)
 
 * SplashScreen
-<img width="452" height="1028" alt="Image" src="https://github.com/user-attachments/assets/a362fef2-f5d6-4e69-a472-88f480f96d15" />
+![SplashScreen Page](screenshoots/splashscreen.jpg)
 
 * Get Started
-<img width="453" height="1027" alt="Image" src="https://github.com/user-attachments/assets/339d95ad-4718-44b6-bdcf-9071396320ef" />
+![Get Started Page](screenshoots/getstarted.jpg)
 
 * Register
-<img width="448" height="1031" alt="Image" src="https://github.com/user-attachments/assets/77f95875-16b0-490c-aa02-4f4d168432af" />
+![Register Page](screenshoots/register.jpg)
 
 * Login
-<img width="447" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0b82a5a0-80d8-4317-8951-d8ce13008aa0" />
+![Login Page](screenshoots/login.jpg)
 
 * Forgot Password
 ![Forgot Password Page](screenshoots/forgotpassword.jpg)

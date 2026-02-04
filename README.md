@@ -16,60 +16,62 @@ Developed By Team - Kelompok 3
 
 ## Screenshot & Demo Video
 
+### Figma (Tampilan Awal)
 * [Desain/Mockup Figma](https://www.figma.com/design/6I2xZC9Cd1dLg16NFsw8kF/MeetYourFoods?node-id=1-2&p=f&t=7xNMnfpYPZkFimTV-0)
 
-* SplashScreen
+### SplashScreen
 ![SplashScreen Page](screenshoots/splashscreen.jpg)
 
-* Get Started
+### Get Started
 ![Get Started Page](screenshoots/getstarted.jpg)
 
-* Register
+### Register
 ![Register Page](screenshoots/register.jpg)
 
-* Login
+### Login
 ![Login Page](screenshoots/login.jpg)
 
-* Forgot Password
+### Forgot Password
 ![Forgot Password Page](screenshoots/forgotpassword.jpg)
 
-* Home
+### Home
 ![Home Page](screenshoots/home.jpg)
-![Add Page](screenshoots/addfoodd.jpg)
+
+### My Uploads
 ![My Uploads Page](screenshoots/myuploads.jpg)
 
-* Update / Edit Food
+### Update / Edit Food
 ![Edit Page](screenshoots/editfood.jpg)
 ![Update Page](screenshoots/updatesuccess.jpg)
 
-* Delete Food
+### Delete Food
 ![Delete Page](screenshoots/deletefood.jpg)
 
-* Go To Maps
+### Go To Maps
 ![Go To Page](screenshoots/gotomaps.jpg)
 ![Maps Page](screenshoots/maps.jpg)
 
-* Add / Input New Food
+### Add / Input New Food
 ![Add Page](screenshoots/addfood.jpg)
 <br>
 ![Add Page](screenshoots/addfoodd.jpg)
 
-* Matches
+### Matches
 ![Matches Page](screenshoots/matches.jpg)
 ![Search Page](screenshoots/search.jpg)
 
-* Find Your Match
+### Find Your Match
 ![Find Your Match Page](screenshoots/findyourmatch.jpg)
 
-* Profile
+### Profile
 ![Profile Page](screenshoots/profile.jpg)
 ![Edit Page](screenshoots/updateprofile.jpg)
 
-* Logout
+### Logout
 ![Logout Page](screenshoots/logout.jpg)
 
-* About
+### About
 ![About Page](screenshoots/about.jpg)
 
-* Demo Video
+### Demo Video
 https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c

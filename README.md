@@ -134,5 +134,5 @@ Developed By Team - Kelompok 3
 
 ## 🎥 Demo Video
 
-🔗 [https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c](https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c)
+🔗 https://github.com/user-attachments/assets/92f92fbf-8b3b-48a2-846e-503ad7c2ad27
 

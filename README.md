@@ -22,12 +22,16 @@ Developed By Team - Kelompok 3
 <img width="452" height="1028" alt="Image" src="https://github.com/user-attachments/assets/a362fef2-f5d6-4e69-a472-88f480f96d15" />
 
 * Get Started
+<img width="453" height="1027" alt="Image" src="https://github.com/user-attachments/assets/339d95ad-4718-44b6-bdcf-9071396320ef" />
 
 * Register
+<img width="448" height="1031" alt="Image" src="https://github.com/user-attachments/assets/77f95875-16b0-490c-aa02-4f4d168432af" />
 
 * Login
+<img width="447" height="1020" alt="Image" src="https://github.com/user-attachments/assets/0b82a5a0-80d8-4317-8951-d8ce13008aa0" />
 
 * Home
+<img width="450" height="1020" alt="Image" src="https://github.com/user-attachments/assets/673ef648-83ad-4e1e-b052-38cf5b725090" />
 
 * Matches
 

@@ -136,5 +136,16 @@ Developed By Team - Kelompok 3
 
 ## 🎥 Demo Video
 
+---
+
+<table align="center">
+  <tr>
+    <td align="center"><b>DemoAplikasi</b></td>
+  </tr>
+  <tr>
+    <a href="https://github.com/user-attachments/assets/e49ccd7a-dca1-443a-85d4-a60ff6518139"></a>
+  </tr>
+</table>
+
 https://github.com/user-attachments/assets/e49ccd7a-dca1-443a-85d4-a60ff6518139
 

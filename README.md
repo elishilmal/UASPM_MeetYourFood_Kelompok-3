@@ -140,6 +140,6 @@ Developed By Team - Kelompok 3
 
 ## Logout
 
-https://github.com/user-attachments/assets/e49ccd7a-dca1-443a-85d4-a60ff6518139" type="video/mp4
+https://github.com/user-attachments/assets/e49ccd7a-dca1-443a-85d4-a60ff6518139
 
 

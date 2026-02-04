@@ -43,4 +43,4 @@ Developed By Team - Kelompok 3
 * Go To Maps
 
 * Demo Video
-https://github.com/user-attachments/assets/39bed233-a03b-4256-8b31-d51cba002e2d
+https://github.com/user-attachments/assets/0adb3930-f399-4da7-b0b5-53532ac8f82c

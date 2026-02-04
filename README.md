@@ -46,7 +46,7 @@ Developed By Team - Kelompok 3
 ![Update Page](screenshoots/updatesuccess.jpg)
 
 * Delete Food
-![Update Page](screenshoots/deletefood.jpg)
+![Delete Page](screenshoots/deletefood.jpg)
 
 * Go To Maps
 ![Go To Page](screenshoots/gotomaps.jpg)
